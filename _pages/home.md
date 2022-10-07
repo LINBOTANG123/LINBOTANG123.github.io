@@ -6,8 +6,7 @@ hidden: true
 header:
   overlay_image: /assets/images/lili-kovac-JonGFaeFPgg-unsplash.jpg    
 ---
-About Me
-======
+
 I'm a junior-year B.S. student majoring in Computer Science and Data Science at the University of Wisconsin, Madison. I have a broad interest in machine learning. In particular, I work on computer vision, transfer learning, and their applications to solve real-world issues. My research goal is to build a robust machine learning system to tackle with uncertainties in the real world.
 
 Research
