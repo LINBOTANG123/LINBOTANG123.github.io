@@ -19,8 +19,8 @@ My research interests include:
 
 Current Work
 ======
-- Change Detection for Building Damage Classification
-- Automated Driving CARLA Research Project
+- Text-image pair compositionality and Category Theory
+- Spatial Temporal Change Detection for Building Damage Classification
 - Unsupervised Domain Adaptation for Semantic Image Segmentation
 
 My Startup
