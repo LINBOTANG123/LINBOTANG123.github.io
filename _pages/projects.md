@@ -3,6 +3,13 @@ title: Projects
 permalink: /projects/
 ---
 
+## Stable Diffusion Model Compositionality & Category Theory, UW-Madison (Ongoing)
+- Exploring the compositionality of StableDiffusion by studying the structure of the latent spaces based on the 
+category theory, and developing loss functions to train the morphisms and functors based on the category theory
+- Creating the testbed for text-image pairs to test for the text compositionality
+
+![image of xBD dataset](/assets/images/category_theory.jpg "category theory")
+
 ## Spatial-Temporal Change Detection, UW-Madison
 - Developing a contrastive representation learning model for anomaly detection, focusing on detecting and categorizing house, road, and farm damage caused by natural disasters
 - Training on the modified xBD dataset and improving the accuracy of self-supervised change detection model STRCLR by modifying the model to accomplish the anomaly detection downstream task
@@ -22,16 +29,3 @@ CARLA simulated event data
 - Preprocessed the FTUs dataset; developed and fine-tuned Co-Scale Cov-Attentional Image Transformers (CoaT) model to perform segmentation task
 
 ![image of FTU dataset](/assets/images/FTU.png "FTU")
-
-## US Top 20 Companies Visualization & Analysis
-- Scraped companies’ stock prices and S&P 500 index from the yahoo finance website and extract data for the model development
-- Used PyTorch-sci-kit learn package to develop models to predict the overall trend of the selected top 20 companies’ stock price in the US stock market which achieved 58% accuracy
-
-![image of finance](/assets/images/finance.png "finance")
-
-## Reinforcement Learning on Open-AI Gym
-- Implemented the Q-learning algorithm to solve the Frozen-lake-v1 puzzle on Open-AI Gym
-- Learned the Open-AI gym toolkit for reinforcement learning and utilizing the pickle package to store and load trained models
-
-![image of openai](/assets/images/lake.png "lake")
-
