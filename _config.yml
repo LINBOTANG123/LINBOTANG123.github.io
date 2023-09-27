@@ -67,6 +67,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/linbo-tang-612218215/"
+    - label: "Resume"
+      icon: "fas fa-file-pdf" # This is assuming you have a PDF icon in your FontAwesome setup
+      url: "/assets/images/Linbo_Tang_2023_Resume.pdf"
 
 
 footer:
