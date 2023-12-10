@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/lili-kovac-JonGFaeFPgg-unsplash.jpg    
 ---
 
-I'm a senior-year B.S. student majoring in Computer Science and Data Science at the University of Wisconsin, Madison. I have a broad interest in machine learning. In particular, I work on computer vision, transfer learning, and their applications to solve real-world issues. My research goal is to build a robust machine learning system to tackle with uncertainties in the real world. I am also committed to teaching and have accumulated extensive teaching experience. Please find more details about my teachings [here](../_pages/teach.md).
+I'm a senior-year B.S. student majoring in Computer Science and Data Science at the University of Wisconsin, Madison. I have a broad interest in machine learning. In particular, I work on computer vision, transfer learning, and their applications to solve real-world issues. My research goal is to build a robust machine learning system to tackle with uncertainties in the real world. I am also committed to teaching and have accumulated extensive teaching experience as undergraduate teaching assistant. Please find more details about my teachings [here](../_pages/teach.md).
 Research
 ======
 My research interests include:
