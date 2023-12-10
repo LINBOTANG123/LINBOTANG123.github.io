@@ -15,10 +15,6 @@ permalink: /experience/
 
 ![image of androd studio](/assets/images/fotor.png "fotor")
 
-## Peer Mentor | Computer Science Department, UW-Madison
-- Tutoring Computer Science 540, introduction to AI
-- Leading Q&A discussions 3 hours per week and answering questions on Piazza
-
 ## Spark Global Online Teaching Program
 - Leading a teaching group of more than 200 volunteers
 - Arranging Videoconference English lessons to underserved elementary schools in China 

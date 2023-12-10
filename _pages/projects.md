@@ -3,7 +3,12 @@ title: Projects
 permalink: /projects/
 ---
 
-## Stable Diffusion Model Compositionality & Category Theory, UW-Madison (Ongoing)
+## Emo-dynamics: Utilizing Dynamics in Selfie Videos to Capture Emotions, [Singh's CV Group](https://www.biostat.wisc.edu/~vsingh/)
+- Curating EmotionNet5k, a novel selfie video dataset containing 5000 samples of facial expressions, with over 300 stars on GitHub, expected to be published on ECCV 2024;
+- Implementing a SOTA learnable wavelet model to remove co-founders and achieve a 3.5 % increase in accuracy on the downstream Facial Emotion Recognition (FER) task.
+![image of xBD dataset](/assets/images/emotion.png "category theory")
+
+## Stable Diffusion Model Compositionality & Category Theory, [Singh's CV Group](https://www.biostat.wisc.edu/~vsingh/)
 - Exploring the compositionality of StableDiffusion by studying the structure of the latent spaces based on the 
 category theory, and developing loss functions to train the morphisms and functors based on the category theory
 - Creating the testbed for text-image pairs to test for the text compositionality
