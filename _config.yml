@@ -16,8 +16,8 @@
 title: LINBO's Home Page
 email: ltang67@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I graduated from University of Wisconsin, Madison with Computer Science and Data Science as my majors, and I will join Harvard University in September 2024 and majoring in Master in Data Science.
-  My primary interest lies in machine learning, specifically in the field of computer vision..
+  I graduated from University of Wisconsin, Madison with Computer Science and Data Science as my majors, and I will join Harvard University in September 2024 and majoring in Master in Data Science. 
+  I have a broad interest in machine learning. In particular, I work on computer vision, transfer learning, and their applications to solve real-world issues.
 github_username: LINBOTANG123
 minimal_mistakes_skin: dirt
 search: true
